@@ -9,7 +9,11 @@ meldet man ein missstand, inklusive dem täter und beweisen wird das in eine Que
 2. erst wenn der täter selber zur vernunft kommen würde wird dieses Queue entleert (mit mongo-pfisterers voice code "Spontane entladung") und der mensch nach dem er zur vernunft gekommen ist wieder zu straftaten zu bewegen. Also die täter kommen da sowieso nie aus ihrem täter verhalten raus
 
 
-Punisment system design
+Punisment system design:
+Das System will straftaten aufrecht erhalten, da hängt ein ganzer markt dran mit polizisten, anwälten und richter die daran verdienen
+ausserdem das motiv des CIA / NSA überwachungssystem wüsste dass sie täter mit ihren straftaten fremdbestimmen kann, in eine software gegossen wie mit einer game engine einen NPC
+
+
 
 
 Dann bei Andres (Florian Philip Müller) scheint eines der probleme zu sein, dass er incentives bekommt wenn er content verteilt, ungesichtet, viel, allenfalls auch schädliche inhalte die dann zusätzlich bonus punkte gäbe, desinformationsagent
