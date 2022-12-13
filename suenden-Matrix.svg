@@ -25,7 +25,7 @@
      showgrid="false"
      inkscape:zoom="0.7652427"
      inkscape:cx="154.85283"
-     inkscape:cy="569.75388"
+     inkscape:cy="503.10836"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
@@ -164,6 +164,17 @@
          style="font-size:5.29167px;stroke-width:0.264583"
          x="18.76346"
          y="147.69019">... suizidalen Menschen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="17.789743"
+       y="157.42606"
+       id="text7679-6-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan7677-2-7-3"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="17.789743"
+         y="157.42606">... vulnerablen Kindern</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -363,6 +374,30 @@
          y="145.46405">...  Suizidalem freundlich zugehört</tspan></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-113.00265"
+       y="155.66475"
+       id="text9459-7-6-8-0-5-2-1"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan9457-0-0-7-2-9-2-9"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="-113.00265"
+         y="155.66475">...  Pädokriminellen Content konsumiert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-116.14558"
+       y="165.93692"
+       id="text9459-7-6-8-0-5-2-1-4"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan9457-0-0-7-2-9-2-9-7"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="-116.14558"
+         y="165.93692">....  versucht altruistisch zu Kindern zu sein</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.95998px;line-height:0.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.149"
        x="106.03876"
        y="245.92972"
@@ -450,6 +485,30 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        transform="matrix(0.14904112,0,0,0.14904112,16.198489,221.86895)"
+       inkscape:transform-center-x="-0.05100438"
+       inkscape:transform-center-y="-0.25223527"
+       d="m 57.799224,92.253291 -10.561816,9.268239 1.647298,13.95488 -12.078399,-7.18085 -12.762833,5.87897 3.096955,-13.70624 -9.535163,-10.321475 13.992422,-1.290082 6.869779,-12.25799 5.550837,12.908927 z" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.7;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path29438-6-97-8"
+       cx="153.85913"
+       cy="155.24214"
+       r="2.2018828" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;stroke-width:2.64567;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26277-1-3-4"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="37.360027"
+       sodipodi:cy="97.729958"
+       sodipodi:r1="21.160213"
+       sodipodi:r2="10.580107"
+       sodipodi:arg1="-0.26179939"
+       sodipodi:arg2="0.36651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.14904112,0,0,0.14904112,158.61248,141.6201)"
        inkscape:transform-center-x="-0.05100438"
        inkscape:transform-center-y="-0.25223527"
        d="m 57.799224,92.253291 -10.561816,9.268239 1.647298,13.95488 -12.078399,-7.18085 -12.762833,5.87897 3.096955,-13.70624 -9.535163,-10.321475 13.992422,-1.290082 6.869779,-12.25799 5.550837,12.908927 z" />
