@@ -1,0 +1,1 @@
+$(function(){$("[data-ajax-component]").each(function(){var b=$(this),a=b.data("url"),c=b.data("ajax-query-parameters");a+="?t\x3d"+(new Date).getTime();c&&(a+="\x26"+c);$.get(a).success(function(a){a.match(/\sdata-ajax-component/)||b.replaceWith(a)})})});
