@@ -161,21 +161,38 @@ Pädophilie <=?=> KKK
 
 also wenn margrit wirklcih pädo ist, dann bin ich froh dass claudine mich weg-geschnappt hat
 
+Gen1: 1950er
+Gen2: 1980er
+
 Variante 1:
-          fGen2 - mGen2
-          fGen1 - mGen2
-            ✝   - mGen2
-          fGen2 - mGen2
-  
+t1        fGen2 - mGen2
+t2        fGen1 - mGen2
+t3          ✝   - mGen2
+t4        fGen2 - mGen2 -> das würde nicht eintreten, weil mit dem generationenübergreifenden sex hätte das männchen bewisen dass es nciht um liebe sondern um sex geht
+                           -> das würde dann auch wieder einen pädo geben der alles vergewaltigen will was er grad in die finger bekommt
+
 Variante 2:
-          fGen2 - gGen2
-            ✝   -   ✝
+t1        fGen2 - gGen2
+t2          ✝   -   ✝
 
 Variante 3:
-          fGen2 - mGen2
-          fGen1 - mGen2
-            ✝   - mGen2
-                    ✝                 
+t1        fGen2 - mGen2
+t2        fGen1 - mGen2
+t3          ✝   - mGen2
+t4                  ✝                 
 
-
-
+Variante 4:
+t1          fGen2 + mGen2
+t2  fGen2 + fGen2   mGen2 + fGen1
+t3                  mGen2 +   ✝
+                  
+Variante 5:
+t1        fGen2 + mGen2
+t2          ✝     mGen2 + fGen1
+t3                mGen2 +   ✝
+                  
+=> und völlig egal ob ich mein Treueversprechen halte oder nicht, ich wäre danach immer noch zeuge für Wirtschaftsspionage vor 9/11
+   => Logik: also da behalte ich lieber meine Moral und Wertesystem und halte mein treueversprechen und hab nicht noch ein weiteres psy-einfallstor
+   => Liebe: ich würde das Versprechen auch aus liebe halten
+   => Bio: ich hab nicht das risiko mir tripper einzufangen
+   => religion: foucault sagt in seinem unveröffentlichen buch oder seinem post mortem veröffentlichtem: wenns mit der ersten nicht klappt soll man mönch werden
