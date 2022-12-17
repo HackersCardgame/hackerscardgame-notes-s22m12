@@ -161,8 +161,21 @@ Pädophilie <=?=> KKK
 
 also wenn margrit wirklcih pädo ist, dann bin ich froh dass claudine mich weg-geschnappt hat
 
+Variante 1:
+          fGen2 - mGen2
+          fGen1 - mGen2
+            ✝   - mGen2
+          fGen2 - mGen2
+  
+Variante 2:
+          fGen2 - gGen2
+            ✝   -   ✝
 
-
+Variante 3:
+          fGen2 - mGen2
+          fGen1 - mGen2
+            ✝   - mGen2
+                    ✝                 
 
 
 
