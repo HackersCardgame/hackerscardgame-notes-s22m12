@@ -95,7 +95,9 @@ einbelndung nichten gemälde => er gehe da ran, eigentlich getarnte drohung gege
 
 raumüberwachung
 
-eeg attenuation parameter (wie bei mindwave)  => sägezahn => erkennt das system dass caludine mit aufmuntert dass ich weniger psychotsich bin 
+eeg attention parameter (wie bei mindwave)  => sägezahn => erkennt das system dass caludine mit aufmuntert dass ich weniger psychotsich bin 
+    => bzw, nö das wäre das meditation parameter
+    
 
 
 insert path, weihnachten, christlichkeit, er wird vermutlcih aufgefordert sich bei mir zu melden, sein neuralink gibt ihm nur gute "trips" und hinweise
