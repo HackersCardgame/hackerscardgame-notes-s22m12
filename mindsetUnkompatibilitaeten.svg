@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mindsetUnkompatibilitaeten.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.54110831"
+     inkscape:cx="464.7868"
+     inkscape:cy="585.83466"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1626" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="opacity:0.780385;fill:none;stroke:#ff0000;stroke-width:7.55906;stroke-linecap:round"
+       id="path846"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="134.71458"
+       sodipodi:cy="197.09885"
+       sodipodi:r1="31.364021"
+       sodipodi:r2="15.682011"
+       sodipodi:arg1="0.99432361"
+       sodipodi:arg2="1.6226421"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 151.81017,223.39414 -17.90827,-10.63435 -18.9128,8.72362 4.57991,-20.31797 -14.14104,-15.2914 20.73882,-1.92284 10.17316,-18.17423 8.23738,19.12959 20.4284,4.05911 -15.64784,13.74558 z"
+       transform="scale(0.26458333)"
+       inkscape:transform-center-x="-0.1328906"
+       inkscape:transform-center-y="-0.6649754" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.780385;fill:none;stroke:#0000ff;stroke-width:7.55906;stroke-linecap:round"
+       id="path846-3"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="134.71458"
+       sodipodi:cy="197.09885"
+       sodipodi:r1="31.364021"
+       sodipodi:r2="15.682011"
+       sodipodi:arg1="0.99432361"
+       sodipodi:arg2="1.6226421"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.26458333,0,0,0.26458333,195.14927,-2.8979076)"
+       inkscape:transform-center-x="-0.1328906"
+       inkscape:transform-center-y="-0.6649754"
+       d="m 151.81017,223.39414 -17.90827,-10.63435 -18.9128,8.72362 4.57991,-20.31797 -14.14104,-15.2914 20.73882,-1.92284 10.17316,-18.17423 8.23738,19.12959 20.4284,4.05911 -15.64784,13.74558 z" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.780385;fill:none;stroke:#008000;stroke-width:7.55906;stroke-linecap:round"
+       id="path846-3-7"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="134.71458"
+       sodipodi:cy="197.09885"
+       sodipodi:r1="31.364021"
+       sodipodi:r2="15.682011"
+       sodipodi:arg1="0.99432361"
+       sodipodi:arg2="1.6226421"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.26458333,0,0,0.26458333,408.13181,6.7831168)"
+       inkscape:transform-center-x="-0.1328906"
+       inkscape:transform-center-y="-0.6649754"
+       d="m 151.81017,223.39414 -17.90827,-10.63435 -18.9128,8.72362 4.57991,-20.31797 -14.14104,-15.2914 20.73882,-1.92284 10.17316,-18.17423 8.23738,19.12959 20.4284,4.05911 -15.64784,13.74558 z" />
+    <ellipse
+       style="opacity:0.780385;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round"
+       id="path870"
+       cx="79.506363"
+       cy="153.23438"
+       rx="42.190845"
+       ry="37.041962" />
+    <ellipse
+       style="opacity:0.780385;fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:round"
+       id="ellipse872"
+       cx="200.18895"
+       cy="148.57919"
+       rx="42.190845"
+       ry="37.041962" />
+    <ellipse
+       style="opacity:0.780385;fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round"
+       id="ellipse872-6"
+       ry="53.552116"
+       rx="87.486237"
+       cy="154.2049"
+       cx="415.59256" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 43.25448,65.958224 29.388657,80.626106 118.628503,2.32549"
+       id="path1005" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="9.8311081"
+       y="34.653179"
+       id="text1111"><tspan
+         sodipodi:role="line"
+         id="tspan1109"
+         style="stroke-width:0.264583"
+         x="9.8311081"
+         y="34.653179">Habitus / Aussage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="55.19994"
+       y="201.70224"
+       id="text2635"><tspan
+         sodipodi:role="line"
+         id="tspan2633"
+         style="stroke-width:0.264583"
+         x="55.19994"
+         y="201.70224">Andres</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="55.19994"
+         y="214.93137"
+         id="tspan6267">weltbild</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="183.94968"
+       y="212.47495"
+       id="text4639"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="183.94968"
+         y="212.47495"
+         id="tspan7793">mein</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="183.94968"
+         y="225.70407"
+         id="tspan7797">Weltbild</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 229.68291,61.68977 191.76857,133.87959 84.980517,132.26705"
+       id="path5785" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="324.21286"
+       y="229.43106"
+       id="text9378"><tspan
+         sodipodi:role="line"
+         id="tspan9376"
+         style="stroke-width:0.264583"
+         x="324.21286"
+         y="229.43106">Weltbild neurotypischer Mensch</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 442.83013,74.291962 416.15508,158.43392 218.3518,158.61473 72.621052,158.55488"
+       id="path11162"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
