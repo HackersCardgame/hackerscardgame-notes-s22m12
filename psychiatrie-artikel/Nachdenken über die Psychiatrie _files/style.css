@@ -1,0 +1,1040 @@
+/*
+Theme Name: Magazine
+Theme URI: http://www.themehall.com/responsive-magazine-theme
+Author: themehall.com
+Author URI: http://www.themehall.com
+Description: Magazine WordPress theme is a omega child wordpress theme built with Bootstrap 3, sleek and powerful mobile first front-end framework for faster and easier web development. 
+Version: 0.2.0
+License: GNU General Public License
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: white, light, gray, black, blue, two-columns, one-column, right-sidebar, left-sidebar, full-width-template, theme-options, custom-menu, threaded-comments, sticky-post,featured-image-header, flexible-header, translation-ready, responsive-layout, fluid-layout
+
+Template: omega
+
+(C) 2012-2013 themehall.com.
+*/
+
+
+/*
+Defaults
+---------------------------------------------------------------------------------------------------- */
+
+/* Typographical Elements
+--------------------------------------------- */
+
+body {
+	padding-top: 30px;
+}
+
+::-moz-selection {
+	background: #333;
+	color: #fff88d;
+}
+
+::selection {
+	background: #333;
+	color: #fff88d;
+}
+
+hr {
+  background-color: black; 
+  height: 1px;
+}
+
+p {
+  font-size: 13px;
+}
+
+h1 {
+  letter-spacing: 1px;
+  word-spacing: -1px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18px;
+  margin-top: 0px;
+  margin-bottom: 18px;
+}
+
+h2 {
+  letter-spacing: 1px;
+  word-spacing: -1px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.6;
+  margin-top: 28px;
+  margin-bottom: 18px;
+}
+
+h3 {
+  letter-spacing: 1px;
+  word-spacing: -1px;
+  font-size: 15px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.6;
+  margin-top: 28px;
+  margin-bottom: 18px;
+}
+
+h4 {
+  letter-spacing: 1px;
+  word-spacing: -1px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.6;
+  margin-top: 28px;
+  margin-bottom: 18px;
+}
+
+h5 {
+  letter-spacing: 1px;
+  word-spacing: -1px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.6;
+  margin-top: 28px;
+  margin-bottom: 18px;
+}
+
+h6 {
+  letter-spacing: 1px;
+  word-spacing: -1px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.6;
+  margin-top: 28px;
+  margin-bottom: 18px;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+ul {
+	list-style: disc outside;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 18px;
+	font-size: 13px;
+}
+
+ol {
+	list-style-type: decimal;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 18px;
+	font-size: 13px;
+}
+
+ol ol {
+	list-style: upper-roman;
+}
+
+ol ol ol {
+	list-style: lower-roman;
+}
+
+ol ol ol ol {
+	list-style: upper-alpha;
+}
+
+ol ol ol ol ol {
+	list-style: lower-alpha;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+	margin-bottom: 0;
+}
+
+dl {
+	margin: 0 0 25px 5px;
+}
+
+dl dt {
+	font-weight: bold;
+	margin: 10px 0 0 0;
+}
+
+dl dd {
+	margin: 5px 0 0 24px;
+}
+
+blockquote {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 40px;
+	padding-bottom: 0px;
+	padding-left: 40px;
+}
+
+blockquote p {
+	font-weight: 400;
+	line-height: 1.6;
+}
+
+pre {
+	background-color: #fff;
+	overflow: scroll;
+	padding: 0 20px;
+	white-space: pre;
+}
+
+cite {
+	font-style: normal;
+}
+
+.singular-post article p, .singular-post article ol, .singular-post article ul, .singular-post article li { /* Grössere Schrift in den eigentlichen Beiträgen */
+  font-size: 15px;
+}
+
+.asterisks {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 18px;
+  margin-bottom: 10px;
+}
+
+.anchor-offset:before {
+ display: block;
+ content: " ";
+   height: 51px; /* Höhe des fixen Menüs als Anchor-Offset, positiv */
+        margin-top: -51px; /* Höhe des fixen Menüs als Anchor-Offset, negativ */
+        visibility: hidden;
+}
+
+/* Table
+--------------------------------------------- */
+
+table {
+	border: 1px solid #e5e5e5;
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-bottom: 25px;
+}
+
+table caption {
+	margin: 0 0 5px;
+	font-size: 15px;
+	font-variant: small-caps;
+}
+
+th,td {
+	padding: 10px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.widget th,
+.widget td {
+	padding: 5px 2px;
+}
+
+th {
+	border-bottom: 1px solid #e5e5e5;
+	border-right: 1px solid #e5e5e5;
+	background: #fff88d;
+	font-size: 15px;
+	font-weight: normal;
+	text-align: left;
+}
+
+td {
+	border-bottom: 1px solid #e5e5e5;
+	border-right: 1px solid #e5e5e5;
+}
+
+
+/* Objects
+--------------------------------------------- */
+
+embed,
+iframe,
+img,
+object,
+video {
+	max-width: 100%;
+}
+
+img {
+	height: auto;
+	width: auto\9; /* IE8 */
+}
+
+/* Forms
+--------------------------------------------- */
+
+input,
+select,
+textarea {
+	background-image: url('http://web198.124.hosttech.eu/links/lemuster.gif');
+	font-family: 'Helvetica', sans-serif;	
+	font-size: 13px;
+	border: 2px solid #fff;
+	max-width: 100%;
+	padding: 1px 1px;
+}
+
+input:focus,
+textarea:focus {
+	border: 2px solid #000;
+	outline: none;
+}
+
+::-moz-placeholder {
+	color: #000;
+}
+
+::-webkit-input-placeholder {
+	color: #000;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background: #fbff50;
+	border: none;
+	box-shadow: none;
+	color: #222;
+	cursor: pointer;
+	letter-spacing: 1px;
+	padding: 1px 1px;
+	text-transform: none;
+	width: auto;
+}
+
+button:hover,
+input:hover[type="button"],
+input:hover[type="reset"],
+input:hover[type="submit"] {
+	background: #751517;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button {
+	display: none;
+}
+
+
+/*
+Structure and Layout
+---------------------------------------------------------------------------------------------------- */
+
+/* Site Containers
+--------------------------------------------- */
+body.admin-bar .navbar-fixed-top {
+	top: 28px
+}
+
+body {
+	font-family: 'Helvetica', sans-serif; 
+	line-height: 1.6;
+	font-weight: 400; 
+	font-size: 12px;
+	letter-spacing: 0.5px; 
+ 	word-spacing: -1px; 
+  	-webkit-font-smoothing: antialiased; 
+}
+
+.site-container {}
+
+.site-inner {	
+	clear: both;
+}
+
+/* Column Widths and Positions
+--------------------------------------------- */
+
+/* Content */
+
+.content {
+	float: left;
+	width: 600px;
+}
+
+.layout-2c-r .content {
+	float: right;
+}
+
+.layout-2c-l .content {
+	float: left;
+}
+
+.layout-1c .content {
+	width: 100%;
+}
+
+/* Primary Sidebar */
+
+.sidebar-primary {
+	float: right;
+	width: 300px;
+}
+
+.layout-1c .sidebar-primary {
+	display: none;
+}
+
+.layout-2c-r .sidebar-primary {
+	float: left;
+}
+
+/* WordPress
+--------------------------------------------- */
+
+.avatar {
+	float: left;
+}
+
+.alignleft .avatar {
+	margin-right: 24px;
+}
+
+.alignright .avatar {
+	margin-left: 24px;
+}
+
+.search-form input[type="submit"] {
+	border: 0;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	margin: -1px;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}
+
+.sticky {
+    background: #fff;
+    padding: 10px 20px 20px;
+    margin: 20px 0;
+}
+
+img.centered,
+.aligncenter {
+	display: block;
+	margin: 24px auto 24px;
+}
+
+img.alignnone {
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+
+.alignleft {
+	float: left;
+	text-align: left;
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+
+.alignright {
+	float: right;
+	text-align: right;
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+
+img.alignleft,
+.wp-caption.alignleft {
+	margin: 0 24px 24px 0;
+}
+
+.wp-caption {
+	max-width: 100%;
+}
+
+img.alignright,
+.wp-caption.alignright {
+	margin: 0 0 24px 24px;
+}
+
+.wp-caption-text {
+	font-size: 11px;
+	font-weight: 400;
+	margin: 0;
+	text-align: center;
+}
+
+.gallery {
+	display: block;
+	clear: both;
+	overflow: hidden;
+	margin: 0 auto 20px;
+}
+
+.gallery .gallery-row {
+	display: block;
+	clear: both;
+	overflow: hidden;
+	margin: 0;
+}
+
+.gallery .gallery-item {
+	overflow: hidden;
+	float: left;
+	margin: 0 0 16px;
+	text-align: center;
+	list-style: none;
+	padding: 0;
+}
+
+.gallery .gallery-item .gallery-icon {
+	position:relative;
+}
+
+.gallery .gallery-item .gallery-icon img {
+	width: auto;
+	max-width: 89%;
+	height: auto;
+	padding: 5%;
+	margin: 0 auto;
+}
+
+.gallery-caption {
+	margin: 0 10px;
+}
+
+.widget_calendar table {
+	width: 100%;
+}
+
+.widget_calendar th {
+	text-align: center;
+	font-weight: bold;
+}
+.widget_calendar td {
+	text-align: center;
+}
+
+.widget_search input.search-field {
+	width: 100%;
+}
+
+.header-right {
+	text-align: right;
+	bottom: -25px;
+}
+.header-right .widget_search input.search-field  {
+	max-width: 350px;
+}
+
+/* Headings
+--------------------------------------------- */
+
+.entry-title {
+	word-wrap: break-word;
+	font-size: 15px;
+	line-height: 18px;
+	letter-spacing: 1px;
+	word-spacing: -1px;
+}
+
+.entry-title a,
+.sidebar .widget-title a {
+	color: #000;
+}
+
+.entry-title a:hover {
+	color: #000;
+}
+
+.page-header {
+    margin: 0px 0px 20px;
+}   
+
+.archive-title {
+	font-size: 14px;
+	margin-bottom: 24px;
+}
+
+.taxonomy-description a {
+	text-decoration: underline;
+}
+
+/*
+Site Header
+---------------------------------------------------------------------------------------------------- */
+.site-header {
+	padding-top: 30px;
+	margin-top: 10px;
+	background-color: #fbff50;
+	}
+
+
+.site-header > .wrap {
+	padding: 40px 0;
+}
+
+.category-diskussion .site-header { 
+background-color: #ace5cd; 
+}
+
+.category-essays .site-header { 
+background-color: #ceaa53; 
+}
+
+.category-rezensionen .site-header { 
+background-color: #b76655; 
+}
+
+.category-theorie-galerie .site-header { 
+background-color: #8c90c7; 
+}
+
+/* Title Area
+--------------------------------------------- */
+
+.title-area {
+	font-weight: 400;
+	margin: 5px 0 0;
+}
+
+.header-image .title-area {
+	padding: 0;
+}
+
+.site-title {
+	font-size: 11px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	line-height: 1;
+	margin: 0 0 8px;
+}
+
+.site-title a,
+.site-title a:hover {
+	color: #fcfe87;
+}
+
+.site-description {
+	color: #999;
+	font-size: 13px;
+	font-weight: 300;
+	line-height: 1;
+	margin: 0;
+}
+
+/*
+Content Area
+---------------------------------------------------------------------------------------------------- */
+
+/* Entries
+--------------------------------------------- */
+
+.entry, .hentry {
+	margin-bottom: 30px;	
+}
+
+.entry-content {
+	word-wrap: break-word;
+}
+
+.home .entry-content img {
+	margin-bottom: 10px;
+	width: auto;
+	height: auto;
+	max-width: 285px;
+	max-height: 285px;
+}
+
+.entry-content img.wp-post-image {
+	margin-bottom: 15px;
+}
+
+.entry-content img.medium,
+.entry-content img.thumbnail {
+	float: left;
+	margin: 3px 100% 24px 0px;
+}
+
+.entry-content .attachment a,
+.entry-content .gallery a {
+	border: none;
+}
+
+.entry-content .wp-caption p {
+	margin-bottom: 0;
+}
+
+.entry-content a {
+	color: #000;
+	text-decoration: underline;
+}
+
+.post-140 .entry-content a { /* Seite "Personenindex" */
+	color: #000;
+	text-decoration: none;
+}
+
+.post-1368 .entry-content a { /* Seite "Links" */
+	color: #000;
+	text-decoration: none;
+}
+
+.entry-content a:hover {
+	color:#751517;
+	text-decoration: underline;
+}
+
+.entry-meta {
+	clear: both;
+	color: #000;
+	font-size: 13px;
+}
+
+.entry-meta a {
+	color: #000;
+}
+
+.entry-meta a:hover {
+	color:#751517;
+	text-decoration: none;
+}
+
+.entry-header .entry-meta {
+	margin-bottom: 14px;
+
+}
+
+.entry-footer .entry-meta {
+	border-top: 0px solid #fff;
+	margin: 0;
+	padding: 8px 0px 8px;
+}
+
+.entry-comments-link::before {
+	content: "\2014";
+	margin: 0 6px 0 2px;
+}
+
+.entry-categories,
+.entry-tags {
+	display: block;
+}
+
+/* Entry Navigation
+--------------------------------------------- */
+
+.navigation {
+	clear: both;
+	font-size: 14px;
+	padding:0 0 0px;
+	overflow: hidden;
+}
+
+.entry .navigation a {
+	border-bottom: 2px solid #000;
+}
+
+.navigation li {
+	display: inline;
+}
+
+.navigation li a {
+	background: #fff;
+	border-radius: 3px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	padding: 8px 12px;
+}
+
+
+/* Pagination
+--------------------------------------------- */
+
+.pagination .page-numbers {
+	padding: 8px 12px;
+	border: 1px solid #ddd;
+}
+
+.pagination .current {
+	background-color: #fff;
+}
+
+
+/* Comments
+--------------------------------------------- */
+
+.entry-comments,
+#respond {
+	background: #fff;
+	border-radius: 3px;
+}
+
+.entry-comments,
+.ping-list,
+#respond {
+	clear: both;
+	margin-bottom: 40px;
+}
+
+.entry-comments a,
+#respond a {
+	border-bottom: 0px solid #fff;
+}
+
+.entry-comments .comment-author {
+	margin: 10px 0 10px;
+}
+
+.entry-comments .comment-content {
+	clear: both;
+}
+
+#respond input[type="email"],
+#respond input[type="text"],
+#respond input[type="url"] {
+	width: 50%
+}
+
+#respond label {
+	display: block;
+	margin-right: 12px;
+}
+
+ol.comment-list {
+	margin: 0;
+	padding: 0;
+}
+
+.comment-list li.ping, .comment-list li.comment {
+	list-style-type: none;
+}
+
+.comment-list .comment-content > ol, 
+.comment-list .comment-content > ul {
+	margin-bottom: 24px;
+}
+
+li.comment,
+li.pingback {
+	border: 0px solid #fff;
+	border-right: none;
+}
+
+li.comment .comment-item,
+li.pingback .comment-item {
+	background: #fff;
+	margin: 12px 0;
+	padding: 32px;
+}
+
+li.comment ol {
+	margin: 0
+}
+
+.comment .avatar ,
+.pingback .avatar{
+	margin: 0 16px 24px 0;
+}
+
+.bypostauthor {
+}
+
+.form-allowed-tags {
+	background: #fff;
+	font-size: 14px;
+	padding: 24px;
+}
+
+
+/*
+Sidebars
+---------------------------------------------------------------------------------------------------- */
+
+.sidebar {
+	padding-bottom: 30px;
+}
+
+.widget-title {
+	word-wrap: break-word;
+	font-size: 13px;
+	font-weight: normal;
+}
+
+.sidebar ul,
+.footer-widgets ul {
+	margin: 0;
+}
+
+.sidebar li,
+.footer-widgets li {
+	list-style-type: none;
+	margin-bottom: 6px;
+	padding: 0;
+	word-wrap: break-word;
+}
+
+.sidebar ul > li:last-child {
+	margin-bottom: 0;
+}
+
+.sidebar .widget {
+	padding: 0px 0 20px;
+}
+
+.header-right .widget {
+	padding: 10px 0;
+}
+
+.sidebar .search-form {
+	width: 100%;
+}
+
+/*
+Footer Widgets
+---------------------------------------------------------------------------------------------------- */
+
+.footer-widgets {
+	border-top: 0px solid #fff;
+	padding: 40px 0 16px;
+}
+
+.footer-widgets .widget {
+    margin-bottom: 24px;
+}
+
+.footer-widgets .col-3 .widget-area {
+	float: left;
+	padding: 0 3% 0 0;
+    width: 33%;
+}
+
+.footer-widgets .col-4 .widget-area {
+	float: left;
+	padding: 0 3% 0 0;
+    width: 25%;
+}
+
+
+.footer-widgets .widget-area:last-child {
+	padding: 0;
+	float: right;
+}
+
+/*
+Site Footer
+---------------------------------------------------------------------------------------------------- */
+
+.site-footer {
+	border-top: 0px solid #fff;
+	padding: 40px 0;
+	text-align: center;
+	font-size: 11px;
+}
+
+.site-footer .footer-content {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.site-footer p {
+	margin: 0;
+}
+
+p.copyright {
+	float: left;
+}
+
+p.credit {
+	float: right;
+}
+
+/*
+Plugins Style
+---------------------------------------------------------------------------------------------------- */
+
+/* Jetpack
+--------------------------------------------- */
+input#subscribe-field {
+	padding: 16px !important;
+}
+
+/* Bootstrap
+--------------------------------------------- */
+.navbar .navbar-brand {
+    display: none;
+}
+
+.navbar-collapse {
+    padding-left: 0;
+}
+
+.carousel {
+	margin-top: 10px;
+}
+
+.carousel-caption {
+	background:url(images/trans.png) repeat 0 0 transparent;
+	left: 0;
+	right: 0;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: left;
+	padding-left: 20px;
+}
+.carousel-caption a {
+	color: #fff;
+}
+
+.thumbnail {
+    border:none;
+    border-radius: 0;
+    padding: 0;
+}
+
+/* Masonry
+--------------------------------------------- */
+.mymasonry .grid {
+	width: 49.8%;
+	float: left;
+}
+
+@media (max-width:991px){
+	.header-right,
+	.title-area {
+		text-align: center;
+	}
+}
+
+@media (max-width:767px){
+	.navbar .navbar-brand {
+	    display: block;
+	}
+
+	.title-area {
+		display: none;
+	}
+
+	.navbar-collapse {
+	    padding-left: 25px;
+	}
+
+	p.copyright,
+	p.credit {
+		float: none;
+		text-align: center;
+	}
+
+	.mymasonry .grid {
+		width: 100%;
+		float: none;
+	}
+}
