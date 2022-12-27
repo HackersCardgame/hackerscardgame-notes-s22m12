@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="535.75"
-     inkscape:cy="408.5"
+     inkscape:cx="255.75"
+     inkscape:cy="288.5"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
@@ -177,8 +177,9 @@
          id="tspan7797">Weltbild</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.367323;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="M 91.244977,39.497109 77.318153,66.014119 38.092402,65.421795"
-       id="path5785" />
+       d="m 91.244977,39.497109 -13.926824,26.51701 -39.216482,0.02737"
+       id="path5785"
+       sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88749px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0971875"
