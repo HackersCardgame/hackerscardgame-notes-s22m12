@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=dOD3d6Vb0aA&list=PLdL5V4JJv9kf3mDgvgUPpGArkGfDXw
 
 Kritik an Cathreen Horton bzw. an diesem Video
 
-* Überwachung sei wie Staffettenlauf
+★ Überwachung sei wie Staffettenlauf
 
 => das ist meiner Meinung nach falsch. Menschen sind heute viel mehr NPC's (also so wie in Games von Computer gesteuerte Figuren) als Menschen. Das wäre dann eher eine Informatik Vorlesung in "Autonome Systeme" [1]. In der Robotik bzw. der Informatik redet man von "Autonomen Systemen" wenn das System Dinge selber erledigen kann ohne eine steuernde Instanz im Hintergrund. Menschen ohne Implantat sind auch irgendwie "Autonome Systeme" die Aufgaben erledigen können auch ohne Anleitung oder Anweisung.
 
@@ -28,29 +28,94 @@ Aber wir waren ja bei den NPC's [3] auf eine bestimmte Aussage gibt es nur eine 
 
 Die meisten Menschies glauben an irgend etwas wie Gott oder beten zu Spongebob oder zum Fliegenden SpaghettiMonster. Es gibt sogar Studien die sagen, dass 60% der Menschen an Gedankenübertragung glauben. Also es ist normal dass Menschen glauben irgend etwas möchtigeres nimmt auf sie Einfuss oder auf ihr Schicksal. Das mit der Kollektiven Wahnvorstellung dass man Gedanken lesen könne kann man sich noch einigermassen herleiten, zB. wenn sich zwei Menschen gut kennen können sie gegenseitig ihre Sätze beenden ohne dass sie sich absprechen. Dann viele Informationen gehen auch über die Nonverbale Kommunikation, bzw. ich kann mir einigermassen ein Bild von der Psyche bzw. vom Innenleben von anderen Menschen machen, kann dann auch oft Vorraussagen zu ihren nächsten Schritten machen, etwas was die meisten Menschen hassen oder fürchten, also so macht man sich nicht gerade beliebt.
 
-Aber zurück zum eigentlichen Thema, zu Implantaten. Wären unsere beiden Gehirne mit je einer lesenden und einer schriebenden Elektrode "bidirektional" verbunden könnte ich teilweise mitverfolgen was Du denkst. Wenn das jetzt nur eine Elektrode ist (da kommt es auch ein bisschen drauf an wo genau diese im Gehirn platziert wurde) würde ich allenfalls nicht mitlesen können aber z.B. emotionen von Dir mitspüren. Dies könnte ich nicht von Anfang an, da müsste es für mein Gehirn eine gewisse Lernphase geben damit ich Dich oder Dein EEG Signal interpretieren kann. Beide gehirne würden das 
+Aber zurück zum eigentlichen Thema, zu Implantaten. Wären unsere beiden Gehirne mit je einer lesenden und einer schriebenden Elektrode "bidirektional" verbunden könnte ich teilweise mitverfolgen was Du denkst. Wenn das jetzt nur eine Elektrode ist (da kommt es auch ein bisschen drauf an wo genau diese im Gehirn platziert wurde) würde ich allenfalls nicht mitlesen können aber z.B. emotionen von Dir mitspüren. Dies könnte ich nicht von Anfang an, da müsste es für mein Gehirn eine gewisse Lernphase geben damit ich Dich oder Dein EEG Signal interpretieren kann. Beide Gehirne würden aber lernen das Gegenüber zu lesen, würden dann vielleicht sogar lernen darüber zu kommunizieren.
 
-dich mit einer laborratte verknüpfen
+Eine einzelne Elektrode wäre ein einzelnes Neuron unter Milliarden von Neuronen, da muss das Gehirn zuerst merken dass das nicht einfach Hintergurnd-Rauschen sondern relevante Information ist. Beide Gehirne (wie Neuronale Netzwerke im Computer) würden aber lernen sich diese Informationen nutzbar zu machen.
 
-
-stuxnet
-seelenlso
-robot
-strukturfunktionalismus
+z.B. beim C. Elegans (das ist das standard Studienobjekt von Informatikern wenn es um Neuronale Netzwerke geht) gibt es genau ein Neuron im Gehirn für den "Vorwärtsgang", falls Du da die wissenschaftlichen Paper dazu nachlesen möchtest findest Du die Quellen hier: https://minkorrekt.de/mi226-warm-unterm-aluhut/#comment-134870
 
 
 
+psychose kanal gold draht, unidirektional, würde nciht gehen
+devices, neuralink person 1, neuralink person 2
+wenn es aber technik wäre, dann zu erwarten dass es einen "Backbone" gibt, dass vielleicht schon die Neuralinks direkt miteinander kommunizieren können, hat man dort aber die Crypto-Keys und genug sendeleistung kann man das übersteuern und sich als sein Gegenüber oder als Gott ausgeben. 
 
-* Zersetzung würde suggerieren dass es die Deutschen waren, meiner Meinung nach wäre das aber etwas amerikanisches
-* Gangstalking, gruppe, verschlatung der kommunikationskanäle
--> einen post von mir in Facebook anzeigen bei allen anderen, dann mit etwas wie teamspeak diese leute zu mir verbinden und sie auf mich aggressiv machen im kontext zu dem was ich gepostet habe, oft bin ich da auch teilweise selber daran schuld weil ich überfordere ganz oft menschen
+=> da muss man sich nicht so sorgen machen, weil man würde es merken, wenn man mit einem anderen Menschen verschlatet würde, der hätte anderes EEG Muster, und wenn man mit einem Computer verbunden würde würde man das auch merken, weil ein Computer würde unnatürlich wirken. Also technisch kann man sich das wie Mumble oder Teamspeak vorstellen mit so verschiedenen Kanälen die man irgendwie verschlaten kann.
 
-* die machen freiwillig mit, nö sind NPC's
-* Freimaruer, Skull and Bones, typische Verschwörungstheorien "Präsidenten waren Freimaurer" normalverteiliung
-* 1/6tel macht mit, nicht wirklich, sidn gesteuerte NPC's, stiumuls response, behavioral science, erpressung, 
-* zugang zu militär technologie => glaube ich auch nicht, das sind mausgesten oder handgesten die das auslösen, aber zugriff haben die da nicht wirklich dafür
-* 5G = Blah
-* dass es ein schneeball system ist denke ich ist aber richtig, aber da macht keiner bewusst mit, alles NPC's
-* man macht ein profil von den personen die man integrien möchte => spricht auch enher für ein zwangsmassnahmensystem
+Ich denke alle hätten so etwas abbekommen, zumindest alle die Jahrgang 1980 und jünger haben, zumindest im ganzen Westen, bzw. überall wo ich schon war. Dieses Implantat soll ja auch einen Zweck erfüllen, der ist meiner Meinung nach da um den Strukturfunktionalismus (Talcott Parsons) zu verbessern, also die Effizienz von Kommunikation zu verbessern, oder wie man es im Volksmund nennen würde "Gedankenübertragung"
+
+Somit wenn man damit wirklich Sinnvoll die Effizienz erhöhen möchte dann müsste es auch eine Art "Gleichschaltung" geben, das würden im Normalfall die Schulen und die Medien und das TV machen, wie z.B. jetzt wo alle Wissen "Russland ist böse", und die meinsten Menschen machen dann automatisch Komplexitätsreduktion und würden dann wenn sie mit einem Russen reden sofort auf den los gehen obwohl ein spezifischer Russe überhaupt nichts kann was der Putin entschieden hat. Aber reduziert man den Komplexitätsgrad wird man effizienter.
+
+Dinge wie "Timecode" oder "Sternenzeit" wären auch Denkbar, man könnte das EEG Muster aufzeichnen und mit der schreibenden Elektrode einfach wieder einspielen und man hätte gute Chancen dass man den selben Gedankengang von damals wieder reaktiviert. Gehen wir von nur einer lesenden und einer schreibenden Elektrode aus wie das Stimoceiver Implantat von 1950 das schon hatte wäre aber zu erwarten, dass wenn andere Eingangskanäle wie z.B. Lärm, Musik, Bilder, Strobboskop dies dann übertönt wird.
+
+@Pixtxa und @regines dieser Teil hier ist allenfalls für Euch spannend:
+Schizophrenie Diagnose hätte vor allem die Funktion Menschen zu diskreditieren. zB Isis Agora Lovecruft (das Vergewaltigungsopfer von Jake Applebaum, einem ehemaligen Star des CCC) ist so richtig fucking hochbegabt mit Informatik. Sie war auch Tor-Entwicklerin, hatte bereits mit 12 Jahren ein Schizo-Diagnose [4] also da ist jetzt entweder "Genie und Wahnsinn nahe beieinander" oder sie wurde mit etwas wie Autismus-Früherkennung schon identifiziert mit 12 Jahren und denen war klar, dass sie dann irgendwann mal Probleme machen wird mit berechtigt kritischen Fragen, sie musste dann sogar aus USA flüchten [5]
+
+[4] https://twitter.com/isislovecruft/status/1143666659745361922
+
+[5] https://github.com/braindef/HackersCardgame12/blob/master/TODO/isis.png
+
+
+Also fassen wir mal zusammen was wir hätten:
+
+1x Implantat Person A
+1x Implantat Person B
+
+diese könnten ohne weitere Infrastruktur vermutlich direkt miteinander kommunizieren. Da bräuchte es noch eine Energiequelle. Ein Bluetooth Headset wäre ähnlich in der Grösse, hätte eine maximale Laufzeit von ca. 10h, also müsste man das spätestens nach 10h wieder aufladen. Reichweite wäre etwa 10m. Da gibt es tausende von Dingen für "Energy Harvesting", es gibt sogar ein Handy dass ohne Akku auskommt, und das müsste eine grössere Reichweite haben [6], wäre aber vermutlich aber auch ein bisschen grösser.
+
+[6] https://www.computerbild.de/artikel/cb-News-Handy-Kaum-zu-glauben-Dieses-Handy-arbeitet-ohne-Akku-18499821.html
+
+1x Implantat Person A
+1x Implantat Person B
+1x Rogue Device mit mehr Sendeleistung als das Implantat
+
+ -> da dran könnte man dann den Rest der Welt anschliessen. Dies gölte es zu verhindern, denn mit einem anderen Menschen die Gedanken "sharen" zu können ist ein Feautre kein Bug, aber wenn dann ein Computer sich als Mensch ausgibt um den Träger des Implantats besser nutzbar, besser steuerbar zu machen und ihn de facto versklavt, dann fände ich das nicht so toll.
+
+Menschen seit 1950 solche Experimente machen würden vermutlich auch wissen wollen was passiert wenn man einen Träger eines solchen Implantats mit 
+* einem Haustier verknüpft
+* einer Laborratte verknüpft
+* mit einem Täter der dem Opfer schlimmes angetan hat verknüpft
+=> also zB beim "Kentler Experiment" könnte es genau um letzteres gehen.
+
+Dann gäbe es gefahren mit solcher Technologie, was ist wenn sich ein Virus von Implantat zu Implantat überträgt wie STUXNET [7], auf diese Dinge sollten wir uns vorbereiten
+
+[7] https://en.wikipedia.org/wiki/Stuxnet
+
+Und selbst wenn alles was ich hier geschrieben hätte eine Spinnerei ist, wäre es erstens in 10 Jahren dank Neuralink sowieso so weit also sollten wir uns als Gesellschaft Gedanken über diese Dinge machen, zweitens wäre das auch ein richtig geiles Drehbuch dass ich claime :D
+
+Dann weiter zu den Zitaten aus dem Vidoe:
+
+★ Zersetzung würde suggerieren dass es die bösen bösen Deutschen waren, meiner Meinung nach wäre das aber etwas amerikanisches
+
+★ Gangstalking, Gruppe, wie bereits erwähnt wäre das eine Verschaltung der Kommunikationskanäle wie z.B. in Teamspeak
+=> da würden über diese Kanäle / Implantate im Kontext dessen was ich auf Twitter oder Facebook gesagt habe Menschen auf mich aggressiv gemacht, diese dann zu mir verbunden damit sie sich an mir austoben können
+
+★ "die Agenten machen freiwillig mit", nö das sind alles NPC's die zwar gut steuerbar sind, aber nicht bewusst mitmachen
+=> das ist eine Wahnvorstellung von Dr. Kathrene Horton
+
+★ Freimaruer, Skull and Bones, typische Verschwörungstheorien "Präsidenten waren Freimaurer", Normalverteiliung, ausserdem zeigen Berechnungen, dass man als Mensch nicht mehr als 50 Kontakte sinnvoll aufrecht erhalten kann [8]
+
+[8] https://media.ccc.de/v/28c3-4741-en-neo_feudalism_or_why_julian_assange_might_be_wrong_after_all
+
+★ "1/6 tel macht mit", nicht wirklich, sind gesteuerte NPC's und "Zombis", gesteuert über Stimulus-Response-Habits [9], da gibt es sogar Formeln dazu wie man einen Menschen steuerbar macht [10]
+=> sollte man sowieso nicht machen so eine Aussage, das würde nur andere Menschen "die nicht dazu gehören" paranoid machen
+
+
+[9] https://en.wikipedia.org/wiki/Stimulus%E2%80%93response_model
+
+[10] https://en.wikipedia.org/wiki/Clark_L._Hull#Behavior
+(Die Formel ist irgend von 1910, also einfach dass Du siehst wie weit man da schon vor 100 Jahren war)
+
+★ "Zugang zu Militär Technologie" => glaube ich auch nicht, die werden selber davon gesteuert, wirklich mehr berechtigungen haben die nicht auf diesen Systemen
+
+★ "...5G..." = Blah Blah Blah, bzw. wenn man mit mehr Bandbreite über Neuralink dass 1000 Elektroden nicht nur eine hat, und man braucht das Implantat um z.B. mit seinem/seiner treuen Partner/in zu kommunizieren wäre es eine technische Verbesserung das 5G
+
+★ dass es ein "Schneeball System" ist denke ich ist aber richtig, aber da macht keiner bewusst mit, alles NPC's, bzw. Menschen die in einem Zwangsmassnahmensystem sind wie der Arbietswelt weil sie ein paar mal zu viel Regeln übertreten haben und jetzt regelmässig daran erinnert werden was sie ausgefressen haben. Und mit jedem Memento (Mahnung) an die Tat senken sie ihr Haupt, kuschen, dissoziieren ein bisschen
+
+
+Und da alle immer von "Satan" (dem Implantat) hören "Diese Regelübertretung bleibt unser kleines Geheimnis" und dann 
+
+
+★ man macht ein profil von den personen die man integrien möchte => spricht auch enher für ein zwangsmassnahmensystem
 
 Also das Video sagt eigentlich dass sie keine Ahnung hat von Brain-Chips wenn es diese gibt. Bzw. gibt es auch non-nivasives
