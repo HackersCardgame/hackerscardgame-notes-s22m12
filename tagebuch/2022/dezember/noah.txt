@@ -151,4 +151,6 @@ Und eben, um das Gehirn auszulesen braucht man ein Implantat, um unidirektional 
 Grundsätzlich könnte man einen unidirektionalen schreibenden Kanal auch mit einem kleinen Golddraht im Gehinr mit der Frequenz λ/n berwekstelligen, man könnte aber mit so einem Implantat nur schreiben und nicht lesen
 
 (0)
+IFS=$'\n' && for i in $(lynx -dump https://marclandolt.ch/ml_buzzernet/2022/12/30/katherine-horton-dr-der-physik-am-cern-und-schwurbler/ |grep -B 1000 "Posts navi"); do espeak-ng -v german -s 350 $i ; done
 
+IFS=$'\n' && for i in $(curl https://raw.githubusercontent.com/HackersCardgame/hackerscardgame-notes-s22m12/main/tagebuch/2022/dezember/noah.txt); do echo $i |sed -e 's/<[^>]*>//g' | espeak-ng -v german -s 350; done
