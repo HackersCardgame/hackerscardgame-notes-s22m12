@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5636628"
-     inkscape:cx="300.25656"
-     inkscape:cy="743.76651"
+     inkscape:zoom="1.567635"
+     inkscape:cx="1153.6487"
+     inkscape:cy="713.81413"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
@@ -90,6 +90,104 @@
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1626" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1623-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1626-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1620-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker101979-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path101977-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker195006"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path195004" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker195010"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path195008" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker195014"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path195012" />
     </marker>
   </defs>
   <g
@@ -7062,7 +7160,7 @@ AAAASUVORK5CYII=
        id="rect95564"
        width="82.078568"
        height="15.957773"
-       x="63.960716"
+       x="31.152351"
        y="110.07063"
        ry="4.5407386"
        inkscape:export-filename="/home/marc/mindwave.png"
@@ -7244,5 +7342,165 @@ AAAASUVORK5CYII=
            x="95.59481"
            y="212.14346">❸</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.22198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15555"
+       x="271.26791"
+       y="161.32077"
+       id="text109581-6"><tspan
+         sodipodi:role="line"
+         id="tspan109579-0"
+         style="stroke-width:0.15555"
+         x="271.26791"
+         y="161.32077"><tspan
+   style="font-weight:bold;stroke-width:0.15555"
+   id="tspan190502-6">Regelkreis EEG oder Medis</tspan> (Risperdal)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="336.04861"
+       y="268.49283"
+       id="text156471-2"><tspan
+         sodipodi:role="line"
+         id="tspan156469-6"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="336.04861"
+         y="268.49283">wirkt negativ auf meine Selbstwirksamkeit und nimmt mir</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="336.04861"
+         y="275.10742"
+         id="tspan185443-1">die Lebensfreude und meine naive Leichtigkeit</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.04065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-2);marker-end:url(#Arrow1Mend-1)"
+       d="m 286.03851,165.22264 v 81.43239 h 111.24171"
+       id="path95957-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-238.70184"
+       y="281.10934"
+       id="text96981-9"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan96979-2"
+         style="stroke-width:0.264583"
+         x="-238.70184"
+         y="281.10934">Meditation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="299.2934"
+       y="258.00198"
+       id="text100651-0"><tspan
+         sodipodi:role="line"
+         id="tspan100649-2"
+         style="stroke-width:0.264583"
+         x="299.2934"
+         y="258.00198">Konzentration</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 286.36797,206.55471 h 105.9913"
+       id="path101778-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 337.97129,246.53687 0,-76.52299"
+       id="path101780-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:0.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="366.97354"
+       y="182.51898"
+       id="text102803-7"><tspan
+         sodipodi:role="line"
+         id="tspan102801-3"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="366.97354"
+         y="182.51898">Meditation</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="366.97354"
+         y="187.01691"
+         id="tspan102805-6">und</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="366.97354"
+         y="191.51482"
+         id="tspan102807-1">Konzentration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="297.63489"
+       y="187.01691"
+       id="text119034-9"><tspan
+         sodipodi:role="line"
+         id="tspan119032-3"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="297.63489"
+         y="187.01691">Wohl fühlen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="294.44128"
+       y="226.67058"
+       id="text119034-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan119032-3-1"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="294.44128"
+         y="226.67058">unwohl fühlen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="366.62473"
+       y="226.67058"
+       id="text121148-1"><tspan
+         sodipodi:role="line"
+         id="tspan121146-9"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="366.62473"
+         y="226.67058">konzentriert</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="366.62473"
+         y="233.28517"
+         id="tspan199816">sein</tspan></text>
+    <rect
+       style="opacity:0.41844482;fill:#008000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect199275"
+       width="54.415222"
+       height="37.096066"
+       x="338.04752"
+       y="169.70937"
+       ry="0" />
+    <rect
+       style="opacity:0.418445;fill:#808000;stroke:none;stroke-width:0.519944;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect199275-3"
+       width="54.415222"
+       height="40.114586"
+       x="338.04752"
+       y="206.80544"
+       ry="0" />
+    <rect
+       style="opacity:0.418445;fill:#808000;stroke:none;stroke-width:0.487176;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect199275-0"
+       width="51.659882"
+       height="37.096066"
+       x="286.38763"
+       y="169.70937"
+       ry="0"
+       inkscape:transform-center-x="7.1818864"
+       inkscape:transform-center-y="-6.7861755" />
+    <rect
+       style="opacity:0.418445;fill:#ff0000;stroke:none;stroke-width:0.504363;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect199275-0-6"
+       width="51.659882"
+       height="39.759651"
+       x="286.36798"
+       y="206.5547"
+       ry="0"
+       inkscape:transform-center-x="7.1818864"
+       inkscape:transform-center-y="-7.2734385" />
   </g>
 </svg>
