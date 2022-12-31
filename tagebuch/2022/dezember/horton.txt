@@ -67,3 +67,28 @@ She says 20% work and get paid by the NW*, I think that's technically incorrect,
 [1] https://asecuritysite.com/forensics/simstring
 
 [2] https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+
+
+
+I come from Switzerland. From what I heard, she was put into the "Psychiatrie Königsfelden" (psych ward) in the canton of Aargau.
+
+Perhaps not silenced, but drugged with "antipsychotics." Usually, these types of legal drugs lower dopamine levels in the brain. When your dopamine is reduced, the brain “works” more slowly. "Antipsychotics" often reduce intelligence. Makes you think a lot less complex. On the one hand, "antipsychotics" help that one not get too paranoid, but reduces your ability to spot patterns in data.
+
+The brain performs pattern matching, the brain is sort of generic functional approximation. Since this is Reddit, I'll try to explain it with example code, e.g. with the Jaro-Winkler [1] algorithm. There you can enter two words and the algorithm will calculate the string similarity. For example, if you enter "autistic" and "altruistic", a similarity of 90% is calculated. Brain does such things not only for letters and words, but also for images or content (named entities, NLP). If you use 80% as the cutoff for equal data items, Autistic and Altruistic would have a common denominator.
+
+Because your brain doesn't store objects in lexical order, like in the example above lets take a different example: "Tomato" and "orange" are kind of similar (fast thinking [2]), fast thinking unless you studied vegetable-sciences, then maybe not. After such an intuitive decision, it must be checked whether this is technically correct (thinking slow [2]). It's likely that "tomato" and "orange" are somehow similar, you can usually buy both at the grocery store.
+
+But if your brain is telling you that "tomato" and "dog" are somehow similar, then maybe you really should see your shrink.
+
+The lower this fictional limit for similarity is (depends on the level of dopamine in your brain), the more hypotheses have to be tested, if the limit is very low it will give you a headache and lead to burnout. So if they drugged her, she would be less stressed, but she might also get fat because these legal drugs make you eat and consume more.
+
+I've been to Koenigsfelden 15 times, so if she ended up in Koenigsfelden, they would hurt her physically, but they will destroy her worldview, her maxims, her altruism, but she would not hurt her physically. Although I don't really like "Psychiatrie Königsfelden". Shrinks in mental hospitals are often that students who were too stupid to study anything relevant. So many bad students end up as shrinks. My ex girlfriend who is a medical doctor also joked to me once that "doctors who are incompetent or useless in a real hospital end up as psychiatrists", I think this is very true.
+
+Like "Agent K" in the movie "Man in Black" they erased her brain, but not with a flash, but with legal drugs. In "Man in Black II", they restore Agent K's memory. Once back, she will ask the same questions that previously went unanswered. I don't think she got everything right, but she got a lot of things right. So when/IF she's back, help her answer the remaining questions.
+
+An example of her mistakes:
+She says 20% work and get paid by the NW*, I think that's technically incorrect, the society and the schools train our children like a dog instead of raising and educating them. They are not bad, it's just  You got to do what you got to do. Somehow this is good for structural functionalism (Talcott Parsons), makes the world, the economy more efficient by reducing complexity, utilitarianism. It's not so cool for people on low incomes, nor for people who are very spiritual, or people who would like to achieve completeness. But if structural functionalism doesn't work, nobody's going to restock the shelves at Walmart. It's somehow a shame for the world, but though I enjoy the fact that I can buy my tomatoes almost 7/24h, whether it's summer or winter.
+
+[1] https://asecuritysite.com/forensics/simstring
+
+[2] https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow

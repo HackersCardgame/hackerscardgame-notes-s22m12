@@ -4,15 +4,3 @@ psychoanalyse der "errosion der systeme"
 => truth about dishonesty, einzelne kleinere fehlentscheidungen die es dann in summe für assange schlimm macht (ameisenalgorithmus, ameisen schach aufstellung)
 
 
-
-Hallo Stefan,
-
-das ist allenfalls ein Projekt dass Dich noch interessieren könnte: 
-https://fiedka.app/
-
-der developer ist aus Deutschland https://github.com/orangecms
-
-und hat 2 talks an der Jahresendveranstaltung des CCC über RiscV und PSI (Platform System Interface) 
-
-Gruss und Guten Rutsch FailDef
-
